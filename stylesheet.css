@@ -21,6 +21,9 @@ a:link{
 a:hover{
     color: black;
 }
+#foto{
+    border-radius: 100% 50%;
+}
 #descricao{
     font-size: 30px;
     width: 50%;
