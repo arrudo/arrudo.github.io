@@ -1,9 +1,25 @@
+html{
+    background-color: black;
+    background-image: url(imagens/fundo.jpg);
+}
 body{
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(119, 119, 119);
     font-size: 25px;
-    color: rgb(0, 0, 0);
+    color: white;
     text-align: center;
+    background-color: #260986;
+    width: 50%;
+    margin: auto;
+    border: 1px solid transparent;
+}
+a:visited{
+    color: grey
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: black;
 }
 #descricao{
     font-size: 30px;
@@ -12,12 +28,19 @@ body{
 }
 #nome{
     font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #habilidades{
     margin-top: 100px;
 }
-
+#skill-1{
+    font-size: 35px;
+}
+#skill-2{
+    font-size: 30px;
+}
 ul{
+    margin-top: 10px;
     list-style: none;
 }
 li{
