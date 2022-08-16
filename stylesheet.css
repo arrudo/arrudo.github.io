@@ -1,0 +1,73 @@
+html{
+    background-color: #ececec;
+}
+body{
+    border: 1px solid transparent;
+    background-color: #ececec;
+    width: 60%;
+    margin: auto;
+    border-left: 4px solid black;
+    font-family: Open Sans, sans-serif,Arial, Helvetica;
+}
+h1{
+    margin-top: 0px;
+    font-size: 55px;
+    margin-bottom: 0px;
+}
+h2{
+    font-size: 30px;
+}
+p , li , a{
+    font-size: 20px;
+}
+#tudo{
+    margin-left: 10px;
+}
+#foto{
+    width: 200px;
+    height: 100%;
+    float: left;
+}
+#header{
+    margin-left: 250px;
+    padding: 25px;
+}
+#link-trybe{
+    text-decoration: none;
+    color: rgb(104, 104, 104);
+}
+#link-trybe:hover{
+    color: black;
+    font-weight: bold;
+}
+ul{
+    list-style: square;
+}
+main{
+    clear: both;
+}
+#email{
+    margin-bottom: 0px;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(104, 104, 104)
+}
+a:hover{
+    color: black;
+    font-weight: bold;
+}
+hr{
+    border: 2px solid rgb(87, 87, 87);
+}
+#trybe{
+    margin-bottom: 0px;
+}
+#trybe2{
+    margin-top: 0px;
+}
+h4{
+    font-size: 20px;
+}
